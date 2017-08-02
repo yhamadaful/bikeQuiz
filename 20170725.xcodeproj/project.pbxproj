@@ -12,16 +12,62 @@
 		AB81183C1F26DAE600236B74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB81183A1F26DAE600236B74 /* Main.storyboard */; };
 		AB81183E1F26DAE600236B74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB81183D1F26DAE600236B74 /* Assets.xcassets */; };
 		AB8118411F26DAE600236B74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB81183F1F26DAE600236B74 /* LaunchScreen.storyboard */; };
+		AB8118491F26DD3B00236B74 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8118481F26DD3B00236B74 /* QuestionViewController.swift */; };
+		AB81184C1F26DF8500236B74 /* bike_top.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB81184B1F26DF8500236B74 /* bike_top.jpg */; };
+		AB81184E1F26E11300236B74 /* bike-start-up1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB81184D1F26E11300236B74 /* bike-start-up1.mp3 */; };
+		AB8118511F26E49100236B74 /* AnswerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB81184F1F26E49100236B74 /* AnswerTableViewCell.swift */; };
+		AB8118521F26E49100236B74 /* AnswerTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB8118501F26E49100236B74 /* AnswerTableViewCell.xib */; };
+		AB8118541F26EA7C00236B74 /* JudgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8118531F26EA7C00236B74 /* JudgeViewController.swift */; };
+		AB81185E1F271D4500236B74 /* 最大幅.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB8118551F271D4500236B74 /* 最大幅.gif */; };
+		AB81185F1F271D4500236B74 /* 最低速度.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB8118561F271D4500236B74 /* 最低速度.gif */; };
+		AB8118601F271D4500236B74 /* 通行止.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB8118571F271D4500236B74 /* 通行止.gif */; };
+		AB8118611F271D4500236B74 /* 進入禁止.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB8118581F271D4500236B74 /* 進入禁止.gif */; };
+		AB8118621F271D4500236B74 /* CB400.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AB8118591F271D4500236B74 /* CB400.jpeg */; };
+		AB8118631F271D4500236B74 /* VMAX.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB81185A1F271D4500236B74 /* VMAX.jpg */; };
+		AB8118641F271D4500236B74 /* インパルス.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB81185B1F271D4500236B74 /* インパルス.jpg */; };
+		AB8118651F271D4500236B74 /* ninja1000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB81185C1F271D4500236B74 /* ninja1000.jpg */; };
+		AB8118661F271D4500236B74 /* SR400.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB81185D1F271D4500236B74 /* SR400.jpg */; };
+		AB8118681F271E2C00236B74 /* ワルキューレ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB8118671F271E2C00236B74 /* ワルキューレ.jpg */; };
+		AB81186D1F27350C00236B74 /* 4.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB8118691F27350C00236B74 /* 4.gif */; };
+		AB81186E1F27350C00236B74 /* 3.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB81186A1F27350C00236B74 /* 3.gif */; };
+		AB81186F1F27350C00236B74 /* 2.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB81186B1F27350C00236B74 /* 2.gif */; };
+		AB8118701F27350C00236B74 /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = AB81186C1F27350C00236B74 /* 1.gif */; };
+		AB8118741F273A9500236B74 /* bike_top.png in Resources */ = {isa = PBXBuildFile; fileRef = AB8118731F273A9500236B74 /* bike_top.png */; };
+		AB81187B1F2863EB00236B74 /* correct.png in Resources */ = {isa = PBXBuildFile; fileRef = AB8118791F2863EB00236B74 /* correct.png */; };
+		AB81187C1F2863EB00236B74 /* incorrect.png in Resources */ = {isa = PBXBuildFile; fileRef = AB81187A1F2863EB00236B74 /* incorrect.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AB8118331F26DAE600236B74 /* 20170725.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 20170725.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB8118361F26DAE600236B74 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AB8118381F26DAE600236B74 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AB8118381F26DAE600236B74 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = ViewController.swift; sourceTree = "<group>"; };
 		AB81183B1F26DAE600236B74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AB81183D1F26DAE600236B74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB8118401F26DAE600236B74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB8118421F26DAE600236B74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB8118481F26DD3B00236B74 /* QuestionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		AB81184B1F26DF8500236B74 /* bike_top.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bike_top.jpg; sourceTree = "<group>"; };
+		AB81184D1F26E11300236B74 /* bike-start-up1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bike-start-up1.mp3"; sourceTree = "<group>"; };
+		AB81184F1F26E49100236B74 /* AnswerTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswerTableViewCell.swift; sourceTree = "<group>"; };
+		AB8118501F26E49100236B74 /* AnswerTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AnswerTableViewCell.xib; sourceTree = "<group>"; };
+		AB8118531F26EA7C00236B74 /* JudgeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JudgeViewController.swift; sourceTree = "<group>"; };
+		AB8118551F271D4500236B74 /* 最大幅.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "最大幅.gif"; sourceTree = "<group>"; };
+		AB8118561F271D4500236B74 /* 最低速度.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "最低速度.gif"; sourceTree = "<group>"; };
+		AB8118571F271D4500236B74 /* 通行止.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "通行止.gif"; sourceTree = "<group>"; };
+		AB8118581F271D4500236B74 /* 進入禁止.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "進入禁止.gif"; sourceTree = "<group>"; };
+		AB8118591F271D4500236B74 /* CB400.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CB400.jpeg; sourceTree = "<group>"; };
+		AB81185A1F271D4500236B74 /* VMAX.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = VMAX.jpg; sourceTree = "<group>"; };
+		AB81185B1F271D4500236B74 /* インパルス.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "インパルス.jpg"; sourceTree = "<group>"; };
+		AB81185C1F271D4500236B74 /* ninja1000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ninja1000.jpg; sourceTree = "<group>"; };
+		AB81185D1F271D4500236B74 /* SR400.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SR400.jpg; sourceTree = "<group>"; };
+		AB8118671F271E2C00236B74 /* ワルキューレ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ワルキューレ.jpg"; sourceTree = "<group>"; };
+		AB8118691F27350C00236B74 /* 4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 4.gif; sourceTree = "<group>"; };
+		AB81186A1F27350C00236B74 /* 3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 3.gif; sourceTree = "<group>"; };
+		AB81186B1F27350C00236B74 /* 2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 2.gif; sourceTree = "<group>"; };
+		AB81186C1F27350C00236B74 /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
+		AB8118731F273A9500236B74 /* bike_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bike_top.png; sourceTree = "<group>"; };
+		AB8118791F2863EB00236B74 /* correct.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = correct.png; sourceTree = "<group>"; };
+		AB81187A1F2863EB00236B74 /* incorrect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = incorrect.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +100,45 @@
 		AB8118351F26DAE600236B74 /* 20170725 */ = {
 			isa = PBXGroup;
 			children = (
+				AB81184A1F26DF6600236B74 /* image */,
 				AB8118361F26DAE600236B74 /* AppDelegate.swift */,
 				AB8118381F26DAE600236B74 /* ViewController.swift */,
+				AB8118531F26EA7C00236B74 /* JudgeViewController.swift */,
+				AB8118481F26DD3B00236B74 /* QuestionViewController.swift */,
+				AB81184F1F26E49100236B74 /* AnswerTableViewCell.swift */,
+				AB8118501F26E49100236B74 /* AnswerTableViewCell.xib */,
 				AB81183A1F26DAE600236B74 /* Main.storyboard */,
 				AB81183D1F26DAE600236B74 /* Assets.xcassets */,
 				AB81183F1F26DAE600236B74 /* LaunchScreen.storyboard */,
 				AB8118421F26DAE600236B74 /* Info.plist */,
 			);
 			path = 20170725;
+			sourceTree = "<group>";
+		};
+		AB81184A1F26DF6600236B74 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				AB8118551F271D4500236B74 /* 最大幅.gif */,
+				AB8118691F27350C00236B74 /* 4.gif */,
+				AB81186A1F27350C00236B74 /* 3.gif */,
+				AB81186B1F27350C00236B74 /* 2.gif */,
+				AB8118731F273A9500236B74 /* bike_top.png */,
+				AB81186C1F27350C00236B74 /* 1.gif */,
+				AB8118561F271D4500236B74 /* 最低速度.gif */,
+				AB8118571F271D4500236B74 /* 通行止.gif */,
+				AB8118581F271D4500236B74 /* 進入禁止.gif */,
+				AB8118591F271D4500236B74 /* CB400.jpeg */,
+				AB81185A1F271D4500236B74 /* VMAX.jpg */,
+				AB8118791F2863EB00236B74 /* correct.png */,
+				AB81187A1F2863EB00236B74 /* incorrect.png */,
+				AB81185B1F271D4500236B74 /* インパルス.jpg */,
+				AB81185C1F271D4500236B74 /* ninja1000.jpg */,
+				AB81185D1F271D4500236B74 /* SR400.jpg */,
+				AB8118671F271E2C00236B74 /* ワルキューレ.jpg */,
+				AB81184D1F26E11300236B74 /* bike-start-up1.mp3 */,
+				AB81184B1F26DF8500236B74 /* bike_top.jpg */,
+			);
+			name = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +200,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB81186E1F27350C00236B74 /* 3.gif in Resources */,
+				AB81186D1F27350C00236B74 /* 4.gif in Resources */,
+				AB81186F1F27350C00236B74 /* 2.gif in Resources */,
+				AB81184C1F26DF8500236B74 /* bike_top.jpg in Resources */,
 				AB8118411F26DAE600236B74 /* LaunchScreen.storyboard in Resources */,
 				AB81183E1F26DAE600236B74 /* Assets.xcassets in Resources */,
+				AB8118521F26E49100236B74 /* AnswerTableViewCell.xib in Resources */,
+				AB8118741F273A9500236B74 /* bike_top.png in Resources */,
+				AB81187C1F2863EB00236B74 /* incorrect.png in Resources */,
+				AB8118611F271D4500236B74 /* 進入禁止.gif in Resources */,
 				AB81183C1F26DAE600236B74 /* Main.storyboard in Resources */,
+				AB81187B1F2863EB00236B74 /* correct.png in Resources */,
+				AB8118661F271D4500236B74 /* SR400.jpg in Resources */,
+				AB8118621F271D4500236B74 /* CB400.jpeg in Resources */,
+				AB8118641F271D4500236B74 /* インパルス.jpg in Resources */,
+				AB81185E1F271D4500236B74 /* 最大幅.gif in Resources */,
+				AB8118601F271D4500236B74 /* 通行止.gif in Resources */,
+				AB81184E1F26E11300236B74 /* bike-start-up1.mp3 in Resources */,
+				AB81185F1F271D4500236B74 /* 最低速度.gif in Resources */,
+				AB8118681F271E2C00236B74 /* ワルキューレ.jpg in Resources */,
+				AB8118631F271D4500236B74 /* VMAX.jpg in Resources */,
+				AB8118701F27350C00236B74 /* 1.gif in Resources */,
+				AB8118651F271D4500236B74 /* ninja1000.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +235,9 @@
 			files = (
 				AB8118391F26DAE600236B74 /* ViewController.swift in Sources */,
 				AB8118371F26DAE600236B74 /* AppDelegate.swift in Sources */,
+				AB8118491F26DD3B00236B74 /* QuestionViewController.swift in Sources */,
+				AB8118541F26EA7C00236B74 /* JudgeViewController.swift in Sources */,
+				AB8118511F26E49100236B74 /* AnswerTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
